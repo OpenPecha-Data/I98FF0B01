@@ -1,15 +1,16 @@
-id: opecha:P007101
+id: P007101
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24018
   title: དགའ་ལྡན་ཤར་རྩེའི་ཆོས་སྤྱོད་མཛད་རིམ།
-  volume:
+  author: ''
+  volumes:
     db0c840c28a54b95b7df192182c2cfb3:
       image_group_id: I1KG24077
       title: Volume 1 of dga' ldan shar rtse'i chos spyod mdzad rim/
       volume_number: 1
       total_pages: 314
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དགའ་ལྡན་ཤར་རྩེའི་ཆོས་སྤྱོད་མཛད་རིམ།
   author: ''
