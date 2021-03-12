@@ -5,11 +5,12 @@ source_metadata:
   title: དགའ་ལྡན་ཤར་རྩེའི་ཆོས་སྤྱོད་མཛད་རིམ།
   author: ''
   volumes:
-    3c9cb1a25f48431cabd85c7404882437:
+    db0c840c28a54b95b7df192182c2cfb3:
       image_group_id: I1KG24077
-      title: ''
+      title: Volume 1 of dga' ldan shar rtse'i chos spyod mdzad rim/
       volume_number: 1
       total_pages: 314
+      base_file: v001.txt
 ebook_metadata:
   title: དགའ་ལྡན་ཤར་རྩེའི་ཆོས་སྤྱོད་མཛད་རིམ།
   author: ''
